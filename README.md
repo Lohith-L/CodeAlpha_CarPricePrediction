@@ -75,7 +75,7 @@ The dataset is included in the [`data/`](data/) folder, so the notebook runs wit
 
 ## 🖼️ Visualizations
 ### How the features relate to selling price
-![How the features relate to selling price](images/eda_relationships.png)
+![How the features relate to selling price](eda_relationships.png)
 
 ### Actual vs predicted prices
 ![Actual vs predicted prices](images/actual_vs_predicted.png)
